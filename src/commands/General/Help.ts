@@ -31,7 +31,8 @@ export default class Command extends BaseCommand {
 Ⓞ All of my commands are listed below darling. Type ${this.client.config.prefix}help <Command Name> to get info about any specific command. 
 Ⓞ Type ${this.client.config.prefix}support to get Zero Two support group link in your DM.
 Ⓞ Contact ${this.client.config.prefix}mods to to add me in your groups.
-Ⓞ Instagram https://www.instagram.com/carl.ed_2003/
+Ⓞ Instagram  
+https://www.instagram.com/carl.ed_2003/
 
 
 	 🌸 *Coding* 🌸
