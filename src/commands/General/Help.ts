@@ -160,7 +160,7 @@ export default class Command extends BaseCommand {
 
   『 Zero Two 』
    Based on: Chitoge, Yotsuba and Void
-   Character theme designer: Fantox
+   Character theme designer: Carl
    ©️ Synthesized Infinity
 
 
