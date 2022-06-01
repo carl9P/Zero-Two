@@ -34,11 +34,11 @@ export default class Command extends BaseCommand {
 
 
 
-	🍁 *Coding* 🍁
+	 🌸 *Coding* 🌸
 
 ⌬ ${this.client.config.prefix}github
 
-	🍁 *Educative Tools* 🍁
+	 🌸 *Educative Tools* 🌸
 
 ⌬ ${this.client.config.prefix}brainly
 ⌬ ${this.client.config.prefix}calculator
