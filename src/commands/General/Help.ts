@@ -160,13 +160,47 @@ https://www.instagram.com/carl.ed_2003/
 ⌬ ${this.client.config.prefix}randomwallpaper
 
 
-  『 Zero Two 』
-   Based on: Chitoge, Yotsuba and Void
-   Character theme designer: Carl
-   ©️ Synthesized Infinity
+  ╭──────────────────𐏋
 
+│   	 『 Zero Two 』
+
+│   Based on: Chitoge and Void
+
+│   ©️ Synthesized Infinity
+
+╰──────────────────𐏋
 
 `}
+
         )
+
     }
+
 }
+
+       
+
+       
+
+                 
+
+                
+
+         
+
+                
+
+          
+
+        
+
+    
+
+ 
+   
+
+
+
+        
+    
+
